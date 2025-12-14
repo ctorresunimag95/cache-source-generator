@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ludamo.Cache.SourceGenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\Ludamo.Cache.SourceGenerator.Demo.Console\\Ludamo.Cache.SourceGenerator.Demo.Console.csproj"
+    }
+  }
+}

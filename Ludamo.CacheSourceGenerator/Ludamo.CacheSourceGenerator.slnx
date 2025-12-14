@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Demo/">
+    <Project Path="Ludamo.Cache.SourceGenerator.Demo.Console/Ludamo.Cache.SourceGenerator.Demo.Console.csproj" Id="8223a1d4-07d5-4d7a-bc9a-97db63792311" />
+  </Folder>
+  <Project Path="Ludamo.Cache.SourceGenerator/Ludamo.Cache.SourceGenerator.csproj" />
+</Solution>
